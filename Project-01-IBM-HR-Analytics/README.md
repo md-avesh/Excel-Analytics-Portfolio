@@ -81,7 +81,7 @@ The dataset contains employee-level information covering workforce characteristi
 
 Interactive HR Analytics Dashboard built using Microsoft Excel.
 
-![Dashboard Preview](Images/HR_Analytics_Dashboard.png)
+![HR Analytics Dashboard](Images/Final%20HR%20Dashboard%20image.jpeg)
 
 ## 💡 Business Insights
 
@@ -108,24 +108,7 @@ Based on the identified workforce patterns, organizations can consider:
 - Evaluating compensation competitiveness
 - Supporting workforce planning through KPI monitoring
 
-## 📁 Repository Structure
 
-```text
-Project-01-IBM-HR-Analytics/
-│
-├── Dashboard-xlsx/
-│   └── IBM_HR_Analytics_Employee_Attrition_Performance.xlsx
-│
-├── Dataset/
-│   └── IBM_HR_Analytics_Dataset.xlsx
-│
-├── Images/
-│   └── HR_Analytics_Dashboard.png
-│
-├── Presentation/
-│   └── IBM_HR_Analytics_Employee_Attrition_Performance.pdf
-
-```
 ## 🚀 Project Status
 
 ✅ Completed
